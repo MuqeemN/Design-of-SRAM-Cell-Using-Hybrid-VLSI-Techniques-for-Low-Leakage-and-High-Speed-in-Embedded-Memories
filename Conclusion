@@ -1,0 +1,10 @@
+Proposed SRAM cell was designed by combining
+TRIMODE MTCMOS power and ground gated techniques.
+The proposed SRAM cell consist of ten transistors in which
+four are high Vt transistors and six are low Vt transistors.
+High Vt transistors are slow, but have a low subthreshold
+leakage current and low Vt transistors are fast, but have a
+high subthreshold leakage current. The SRAM cell is
+implemented using low Vt transistors to perform fast
+operation and sleepy transistors were implemented using
+high Vt transistors to have low subthreshold leakage current.
