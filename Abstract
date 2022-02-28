@@ -1,0 +1,9 @@
+A novel 10T SRAM architecture is proposed in
+this paper which operates in three modes (active, park, standby
+or hold). The main objective of the proposed architecture is to
+provide better stability and reduced delay in active mode,
+reduced leakage current in standby mode and retaining the
+logic state in park mode. Simulation results shows that the
+proposed SRAM is much better than conventional and other
+SRAM cells designed using hybrid techniques.
+it is design using Synopsys tool, 28nm technology.
